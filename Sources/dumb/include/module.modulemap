@@ -1,0 +1,4 @@
+module dumb {
+	header "dumb/dumb.h"
+	export *
+}
